@@ -1,0 +1,9 @@
+{
+    "name": "kidatti/ApnsPHP",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": {"ApnsPHP": "ApnsPHP"}
+    }
+}
