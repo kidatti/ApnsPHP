@@ -1,5 +1,5 @@
 {
-    "name": "kidatti/ApnsPHP",
+    "name": "kidatti/apns-php",
     "require": {
         "php": ">=5.3"
     },
